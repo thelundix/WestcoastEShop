@@ -1,0 +1,14 @@
+{
+  "orderId": 1,
+  "orderDate": "2024-10-08T12:26:23.5906471+02:00",
+  "customer": {
+    "customerId": 100,
+    "createdAt": "2024-10-08T12:26:23.5987793+02:00",
+    "lastBuy": "2024-10-08T12:26:23.5987907+02:00",
+    "firstName": "olle",
+    "lastName": "svensson",
+    "adressLine": "hejgatan 1",
+    "postalCode": "123 56",
+    "city": "Storstaden"
+  }
+}
