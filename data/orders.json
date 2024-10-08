@@ -1,0 +1,82 @@
+[
+  {
+    "orderId": 1,
+    "customer": {
+      "customerId": 100,
+      "createdAt": "2024-10-08T15:30:13.2956617+02:00",
+      "lastBuy": "2024-10-08T15:30:13.2956721+02:00",
+      "firstName": "olle",
+      "lastName": "svensson",
+      "adressLine": "hejgatan 1",
+      "postalCode": "123 56",
+      "city": "Storstaden",
+      "email": null,
+      "phone": null
+    },
+    "orderDate": "2024-10-08T15:30:13.2909222+02:00",
+    "orderItems": [
+      {
+        "discount": 0.10,
+        "lineSum": 360.00,
+        "product": {
+          "productId": 1,
+          "itemNumber": "1-5679X",
+          "name": "Sliptrissor",
+          "price": 40
+        },
+        "quantity": 10
+      },
+      {
+        "discount": 0.10,
+        "lineSum": 90.00,
+        "product": {
+          "productId": 2,
+          "itemNumber": "1-5665X",
+          "name": "yxa",
+          "price": 10
+        },
+        "quantity": 10
+      }
+    ]
+  },
+  {
+    "orderId": 2,
+    "customer": {
+      "customerId": 100,
+      "createdAt": "2024-10-08T15:30:13.295924+02:00",
+      "lastBuy": "2024-10-08T15:30:13.2959242+02:00",
+      "firstName": "Anneli",
+      "lastName": "svensson",
+      "adressLine": "hejgatan 1",
+      "postalCode": "123 56",
+      "city": "Storstaden",
+      "email": null,
+      "phone": null
+    },
+    "orderDate": "2024-10-08T15:30:13.295923+02:00",
+    "orderItems": [
+      {
+        "discount": 0.10,
+        "lineSum": 108.00,
+        "product": {
+          "productId": 1,
+          "itemNumber": "1-5672X",
+          "name": "slipmaskin",
+          "price": 12
+        },
+        "quantity": 10
+      },
+      {
+        "discount": 0.10,
+        "lineSum": 90.00,
+        "product": {
+          "productId": 2,
+          "itemNumber": "1-5663X",
+          "name": "hammare",
+          "price": 10
+        },
+        "quantity": 10
+      }
+    ]
+  }
+]
